@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+nav {
+    background-color: rgb(123, 125, 108);
+    border-bottom: 3px solid rgb(255, 255, 255);
+    border-top: 3px solid rgb(255, 255, 255);
+}
+
+nav a {
+    border-radius: 10px;
+    margin-inline: 20px;
+    margin-block: 7px;
+    padding: 5px;
+    border: 2px solid rgb(255, 255, 255);
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(159, 140, 79);
+    font-size: 1.5em;
+}
+
+nav a:hover {
+    scale: 110%;
+}
+
+.currentPage {
+    scale: 110%;
+    border: 3px solid rgb(255, 255, 255);
+}
+
+body {
+    background-color: rgb(72, 107, 164);
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.portrait {
+    flex: 1 1 25%;
+    margin: 2%;
+}
+
+.portrait img {
+    width: 100%;
+    border-radius: 20px;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+.portrait figcaption {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 1.5em;
+    font-weight: 1000;
+}
+
+.bodyText {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 1.5em;
+}
+
+#homeIntroText {
+    margin: 10px; 
+}
+
+#homeQuote {
+    margin: 50px;
+}
+
+#programmingTable {
+    border: 1px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+    margin-block: 60px;
+    margin-inline: auto;
+}
+
+#programmingTable th {
+    border: 1px solid rgb(255, 255, 255);
+    padding: 6px;
+    background-color: rgb(159, 140, 79);
+}
+
+#hobbiesText {
+    justify-self: center;
+    width: 30%;
+    text-align: left;
+    margin: 60px;
+}
+
+#hobbiesText h4 {
+    margin-bottom: 10px;
+}
+
+#hobbiesList {
+    justify-self: center;
+    width: 90%;
+    margin-bottom: 50px;
+}
+
+#contactForm {
+    border-radius: 10px;
+    background-color: white;
+    display: block;
+    margin: 40px auto;
+    height:650px;
+}
+
+footer {
+    border-top: 3px solid rgb(255, 255, 255);
+    background-color: rgb(33, 68, 110);
+}
+
+#footerText {
+    text-align: center;
+    color: rgb(85, 147, 184);
+    font-size: 0.75em;
+    padding-bottom: 20px;
+}
+
+#logo {
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+}
