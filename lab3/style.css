@@ -7,4 +7,39 @@ body{
 }
 section{
     padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 50%;
+    margin: 20px auto;
+}
+img{
+    width: auto;
+    height: 17px;
+    margin: 10px;
+}
+.feedback{
+    font-size: medium;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    padding: 10px 20px;
+    background-color: #ffffff;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0 0px 6px rgba(0, 0, 0, 0.1);
+}
+#results{
+    margin-top: 20px;
+    font-size: medium;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 25%;
+    margin: 20px auto;
+    padding: 20px;
 }

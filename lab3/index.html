@@ -4,28 +4,40 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lab 3: Quiz</title>
+    <script src="https://unpkg.com/underscore@1.13.7/underscore-umd-min.js"></script>
     <script src="script.js" defer></script>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Quiz</h1>
+    <p id="attempts"></p>
 
     <section>
         <h3>1. Is CSUMB in monterey?</h3>
         <br>
         <label><input type="radio" name="q1" value="true">true</label>
         <label><input type="radio" name="q1" value="false">false</label>
-        <h4 id="fb1"></h4>
+        <div class="feedback">
+            <h4 id="fb1"></h4>
+            <img id="fb1-img" src="">
+        </div>
     </section>
     <section>
-        <h3>2. What is the name of our current president?</h3>
+        <h3>2. What is the name of CSUMB's mascot?</h3>
         <input type="text" id="q2">
-        <h4 id="fb2"></h4>
+        <div class="feedback">
+            <h4 id="fb2"></h4>
+            <img id="fb2-img"src="">
+        </div>
     </section>
     <section>
         <h3>3. How many continents are there?</h3>
         <input type="number" id="q3" min="1">
-        <h4 id="fb3"></h4>
+        <div class="feedback">
+            <h4 id="fb3"></h4>
+            <img id="fb3-img" src="">
+        </div>
+
     </section>
     <section>
         <h3>4. What city is CSUMB located in?</h3>
@@ -35,17 +47,26 @@
             <option value="monterey">Monterey</option>
             <option value="marina">Marina</option>
         </select>
-        <h4 id="fb4"></h4>
+        <div class="feedback">
+            <h4 id="fb4"></h4>
+            <img id="fb4-img" src="">
+        </div>
     </section>
     <section>
         <h3>5. What naming convention does CSUMB use for computer science classes</h3>
         <br>
-        <label><input type="checkbox" id="q5" value="css">CSS</label>
-        <label><input type="checkbox" id="q5" value="cst">CST</label>
-        <label><input type="checkbox" id="q5" value="CS">CS</label>
-        <h4 id="fb5"></h4>
+        <div id="q5-container"></div>
+        <div class="feedback">
+            <h4 id="fb5"></h4>
+            <img id="fb5-img" src="">
+        </div>
     </section>
-    <button>Submit Quiz</button>
-    <p id="score"></p>
+    <button >Submit Quiz</button>
+    <div id="results">
+        <h2>Results</h2>
+        <p id="score"></p>
+        <p id="congrats"></p>
+    </div>
+
 </body>
 </html>
