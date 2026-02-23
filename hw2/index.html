@@ -3,16 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-        body {
-            text-align: center;
-            color: white;
-        }
-
-    </style>
+    <title>HW2: JavaScript</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/script.js" defer></script>
 </head>
 <body>
-   <h1></h1>
+    <h1>Dice Game</h1>
+    <div class="container">
+        <section id="player">
+            <h2>Player</h2>
+            roll: 
+            <p id="player-roll"></p>
+            <img id="player-img" src=""><br>
+            <button id="roll-btn">Roll</button>
+        </section>
+        <section id="computer">
+            <h2>Computer</h2>
+            roll: 
+            <p id="computer-roll"></p>
+            <img id="computer-img" src="">
+        </section>
+    </div>
+    <p id="result"></p>
+    <div class="container">
+        <section id="bet">
+            <h2>Place Your Bet</h2>
+            wallet:
+            <span id="wallet"></span><br><br>
+            bet:
+            <input type="number" id="bet-amount" placeholder="Enter your bet"><br><br>
+            <button id="reset-btn">Reset Wallet</button>
+        </section>
+    </div>
+    <p id="warning"></p>
 </body>
 </html>
