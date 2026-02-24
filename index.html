@@ -4,21 +4,69 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Directory</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Directory</h1><br>
     <h3>Labs:</h3>
-    <ul>
-        <li><a href="lab1/index.html">Lab 1: HTML & CSS</a></li>
-        <li><a href="lab2/index.html">Lab 2: JavaScript</a></li>
-        <li><a href="lab2-tutorial/index.html">Lab 2: JavaScript (Tutorial)</a></li>
-        <li><a href="lab3/index.html">Lab 3: Quiz</a></li>
-
-    </ul>
+    <div class="container">
+        <a href="lab1/index.html">
+            <section class="card">
+                Lab 1: HTML & CSS
+                <br>
+                <p>
+                    A group page which contains an image of each member stuff we have in common and a way to contact us.
+                </p>
+            </section> 
+        </a>
+        <a href="lab2/index.html">
+            <section class="card">
+                Lab 2: JavaScript Basics
+                <br>
+                <p>
+                    A page that allows the user to guess a number and will give feedback on whether the guess is too high, too low, or correct. The user will have a 7 attempts to guess the correct number.
+                </p>
+            </section>
+        </a>
+        <a href="lab2-tutorial/">
+            <section class="card">
+                Lab 2: JavaScript Basics (Tutorial)
+                <br>
+                <p>
+                    Same as Lab 2 but made from a tutorial template.
+                </p>
+            </section>
+        </a>
+        <a href="lab3/index.html">
+            <section class="card">
+                Lab 3: Quiz
+                <br>
+                <p>
+                    A quiz with 5 questions about CSUMB and general knowledge. The user will receive feedback on whether their answer is correct or not.
+                </p>
+            </section>
+        </a>
+    </div>
     <h3>Homework:</h3>
-    <ul>
-        <li><a href="hw1/index.html">Homework 1: CS Basics</a></li>
-        <li><a href="hw2/index.html">Homework 2: Dice Game</a></li>
-    </ul>
+    <div class="container">
+        <a href="hw1/index.html">
+            <section class="card">
+                Homework 1: CS Infomation Page
+                <br>
+                <p>
+                    A page that contains information about general computer science tools.
+                </p>
+            </section>
+        </a>
+        <a href="hw2/index.html">
+            <section class="card">
+                Homework 2: Dice Game
+                <br>
+                <p>
+                    A dice game where the user rolls two dice and tries to get a sum of 7. The user will have 5 attempts to roll a sum of 7.
+                </p>
+            </section>
+        </a>
+    </div>
 </body>
 </html>
