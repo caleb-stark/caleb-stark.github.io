@@ -1,0 +1,163 @@
+body {
+    background-color: #1e1e1e;
+    color: #f0f0f0;
+    font-family: 'Courier New', monospace;
+    padding: 20px;
+  }
+  
+  p {
+    color: #cccccc;
+    margin-bottom: 6px;
+  }
+  
+  a {
+    color: #9d5fff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #ffffff;
+  }
+  
+  header {
+    background: linear-gradient(90deg, #5a1fcc, #7b2fff);
+    border: 2px solid;
+    border-top-color: #9d5fff;
+    border-left-color: #9d5fff;
+    border-bottom-color: #111;
+    border-right-color: #111;
+    padding: 8px 16px;
+    margin-bottom: 20px;
+  }
+  
+  header h1 {
+    font-size: 1.4rem;
+    color: #fff;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  
+  main {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  
+  #game-container {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  
+  #player-stats,
+  #actions,
+  #enemy-stats,
+  #game-log {
+    background: #2c2c2c;
+    border: 2px solid;
+    border-top-color: #666;
+    border-left-color: #666;
+    border-bottom-color: #111;
+    border-right-color: #111;
+    flex: 1 1 180px;
+    overflow: hidden;
+  }
+  
+  h2 {
+    background: linear-gradient(90deg, #5a1fcc, #7b2fff);
+    color: #fff;
+    padding: 5px 10px;
+    margin-top: 0px;
+    font-size: 1rem;
+  }
+  
+  #player-stats p,
+  #enemy-stats p {
+    padding: 4px 10px;
+    font-size: 0.9rem;
+  }
+  
+  #actions {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #actions button {
+    background: #2c2c2c;
+    color: #9d5fff;
+    border: none;
+    border-top: 1px solid #444;
+    padding: 10px 14px;
+    font-family: 'Courier New', monospace;
+    font-size: 0.9rem;
+    text-align: left;
+    cursor: pointer;
+    transition: background 0.15s, color 0.15s;
+  }
+  
+  #actions button:hover {
+    background: #3a2a5c;
+    color: #fff;
+  }
+  
+  #actions button:active {
+    background: #5a1fcc;
+    color: #fff;
+  }
+  
+  #game-log {
+    flex: 2 1 300px;
+    max-height: 260px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #log-list {
+    list-style: none;
+    padding: 8px 10px;
+    overflow-y: auto;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  
+  #log-list li {
+    color: #aaaaaa;
+    font-size: 0.85rem;
+    border-left: 2px solid #5a1fcc;
+    padding-left: 8px;
+    line-height: 1.4;
+  }
+  
+  #log-list li:last-child {
+    color: #f0f0f0;
+    border-left-color: #9d5fff;
+  }
+  
+  #end-btn {
+    background: #2c2c2c;
+    color: #cc4444;
+    border: 2px solid;
+    border-top-color: #666;
+    border-left-color: #666;
+    border-bottom-color: #111;
+    border-right-color: #111;
+    padding: 8px 20px;
+    font-family: 'Courier New', monospace;
+    font-size: 0.95rem;
+    cursor: pointer;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: background 0.15s, color 0.15s;
+  }
+  
+  #end-btn:hover {
+    background: #4a1c1c;
+    color: #ff6666;
+  }
+  
+  #end-btn:active {
+    background: #cc4444;
+    color: #fff;
+  }

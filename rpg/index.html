@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/script.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>RPG Game</h1>
+    </header>
+    <main>
+        <div id="game-container">
+            <div id="player-stats">
+                <h2>Player Stats</h2>
+                <p id="health"></p>
+                <p id="mana"></p>
+                <p id="experience"></p>
+            </div>
+            <div id="actions">
+                <h2>Actions</h2>
+                <button onclick="attack()">Attack</button>
+                <button onclick="defend()">Defend</button>
+                <button onclick="use_item()">Use Item</button>
+            </div>
+            <div id="enemy-stats">
+                <h2>Enemy Stats</h2>
+                <p id="enemy-health"></p>
+                <p id="enemy-mana"></p>
+            </div>
+            <div id="game-log">
+                <h2>Game Log</h2>
+                <ul id="log-list"></ul>
+            </div>
+        </div>
+        <button id="end-btn">End Game</button>
+    </main>
+
+</body>
+</html>
