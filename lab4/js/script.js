@@ -51,10 +51,12 @@ async function display_city() {
     if (!data) {
       document.querySelector("#valid-zipcode").textContent =
         "Zip Code not found!";
+    } else {
+      document.querySelector("#valid-zipcode").textContent = "";
+      document.querySelector("#city-text").textContent = data.city;
+      document.querySelector("#latitude-text").textContent = data.latitude;
+      document.querySelector("#longitude-text").textContent = data.longitude;
     }
-    document.querySelector("#city-text").textContent = data.city;
-    document.querySelector("#latitude-text").textContent = data.latitude;
-    document.querySelector("#longitude-text").textContent = data.longitude;
   } catch (error) {
     if (err instanceof TypeError) {
       alert("Error accessing API endpoint (network failure)");
@@ -119,23 +121,23 @@ async function display_counties() {
 }
 
 function submit() {
-    let username = document.querySelector("#user-id").value;
+  let username = document.querySelector("#user-id").value;
   let password = document.querySelector("#password").value;
   let verify_password = document.querySelector("#verify-password").value;
   let warning = document.querySelector("#password-warning");
-  if(username.length < 3) {
+  if (username.length < 3) {
     warning.textContent = "Username must be at least 3 characters long.";
-    warning.style.color = "red";
-    warning.style.display = "inline";
-  }else if (password !== verify_password) {
-    warning.textContent = "Passwords do not match.";
     warning.style.color = "red";
     warning.style.display = "inline";
   } else if (password.length < 6) {
     warning.textContent = "Password must be at least 6 characters long.";
     warning.style.color = "red";
     warning.style.display = "inline";
-  }else {
+  } else if (password !== verify_password) {
+    warning.textContent = "Passwords do not match.";
+    warning.style.color = "red";
+    warning.style.display = "inline";
+  } else {
     warning.style.display = "none";
   }
 }
