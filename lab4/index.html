@@ -4,12 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Lab4: Sign Up Form</title>
-    <style>
-      body {
-        font-family: Arial, sans-serif;
-        background-color: white;
-      }
-    </style>
+    <link rel="stylesheet" href="css/style.css" />
     <script src="js/script.js" defer></script>
   </head>
   <body>
@@ -21,10 +16,10 @@
       Last Name: <input type="text" /><br />
       Email: <input type="text" /><br />
       Phone Number:<input type="text" /><br /><br />
-      Zip Code: <input id="zipcode" type="text" /><br />
+      Zip Code: <input id="zipcode" type="text" /> <span id="valid-zipcode"></span> <br />
       City: <span id="city-text"></span>
       <br />
-      Latitude: <span id="latitude-text"></span>
+      Latitude: <span id="latitude-text"></span> 
       <br />
       Longitude: <span id="longitude-text"></span> <br /><br />
       State:
@@ -38,7 +33,7 @@
 
       Desired Username: <input id="user-id" type="text" /> <span id="user-availability"></span><br />
       Password: <input id="password" type="password" /> <span id="password-text"></span><br />
-      Type Password Again: <input type="password" /><br />
+      Type Password Again: <input id="verify-password" type="password" /><br />
       <input id="submit-btn" type="submit" value="Sign up!" /><br>
       <p id="password-warning"></p>
     </fieldset>

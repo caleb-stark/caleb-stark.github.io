@@ -1,0 +1,67 @@
+body {
+    background-color: #1e1e1e;
+    color: #f0f0f0;
+    font-family: "Courier New", monospace;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #9d5fff;
+    margin-bottom: 15px;
+  }
+  
+  fieldset {
+    background-color: #2c2c2c;
+    border: 2px solid;
+    border-top-color: #666;
+    border-left-color: #666;
+    border-bottom-color: #111;
+    border-right-color: #111;
+    padding: 15px;
+    width: 400px;
+  }
+  
+  legend {
+    background-color: #5a1fcc;
+    border: 2px solid;
+    border-top-color: #666;
+    border-left-color: #666;
+    border-bottom-color: #111;
+    border-right-color: #111;
+    color: #ffffff;
+    padding: 5px 10px;
+  }
+  
+  input {
+    background-color: #1e1e1e;
+    color: #f0f0f0;
+    border: 1px solid #666;
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+  
+  select {
+    background-color: #1e1e1e;
+    color: #f0f0f0;
+    border: 1px solid #666;
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+  
+  #submit-btn {
+    background-color: #7b2fff;
+    font-family: "Courier New", monospace;
+    color: #ffffff;
+    border: 2px solid;
+    border-top-color: #666;
+    border-left-color: #666;
+    border-bottom-color: #111;
+    border-right-color: #111;
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  
+  #submit-btn:hover {
+    background-color: #9d5fff;
+    color: #ffffff;
+  }
