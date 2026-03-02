@@ -22,7 +22,7 @@ body {
   }
   
   legend {
-    background-color: #9d5fff;
+    background: linear-gradient(90deg, #5a1fcc, #7b2fff);
     border: 2px solid;
     border-top-color: #666;
     border-left-color: #666;
@@ -49,7 +49,7 @@ body {
   }
   
   #submit-btn {
-    background-color: #7b2fff;
+    background: linear-gradient(90deg, #5a1fcc, #7b2fff);
     font-family: "Courier New", monospace;
     color: #ffffff;
     border: 2px solid;
