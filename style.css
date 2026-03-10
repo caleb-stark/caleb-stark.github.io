@@ -48,3 +48,15 @@ a:hover {
 .card p {
   padding: 10px;
 }
+
+table {
+  background: #2c2c2c;
+  border: 2px solid;
+  border-top-color: #666;
+  border-left-color: #666;
+  border-bottom-color: #111;
+  border-right-color: #111;
+  margin-bottom: 20px;
+  width: 300px;
+  height: 200px;
+}
