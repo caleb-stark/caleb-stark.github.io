@@ -2,7 +2,7 @@ const phosphenes = document.getElementById("phosphene");
 
 let weapons = [];
 
-fetch("weapons.json")
+fetch("data/weapons.json")
   .then((res) => res.json())
   .then((data) => {
     weapons = data;
@@ -10,7 +10,7 @@ fetch("weapons.json")
   });
 
 function renderWeapons() {
-  const container = document.getElementById("phosphene-list");
+  const container = document.getElementById("phosphenes");
 
   container.innerHTML = weapons
     .filter((w) => w.has_phosphene)
