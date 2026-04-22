@@ -1,1504 +1,1395 @@
 [
-    {
-      "id": 1,
-      "name": "prowler",
-      "weapon_type": "smg",
-      "manufacturer": "daedalus",
-      "sources": [
-        "air raider scremulous"
-      ],
-      "locations": [
-        "crooked teeth"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 2,
-      "name": "acey may",
-      "weapon_type": "shotgun",
-      "manufacturer": "daedalus",
-      "sources": [
-        "arjay"
-      ],
-      "locations": [
-        "upper dominion"
-      ],
-      "has_phosphene": true,
-      "completed": true
-    },
-    {
-      "id": 3,
-      "name": "fisheye",
-      "weapon_type": "sniper",
-      "manufacturer": "order",
-      "sources": [
-        "arjay"
-      ],
-      "locations": [
-        "upper dominion"
-      ],
-      "has_phosphene": true,
-      "completed": true
-    },
-    {
-      "id": 4,
-      "name": "bod",
-      "weapon_type": "shotgun",
-      "manufacturer": "daedalus",
-      "sources": [
-        "axemaul"
-      ],
-      "locations": [
-        "carcadia district"
-      ],
-      "has_phosphene": true,
-      "completed": true
-    },
-    {
-      "id": 5,
-      "name": "sunspot",
-      "weapon_type": "pistol",
-      "manufacturer": "order",
-      "sources": [
-        "big oil"
-      ],
-      "locations": [
-        "bloodstained hollow"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 6,
-      "name": "budget deity",
-      "weapon_type": "pistol",
-      "manufacturer": "tediore",
-      "sources": [
-        "bio-bulkhead"
-      ],
-      "locations": [
-        "dissected plateau"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 7,
-      "name": "truck",
-      "weapon_type": "sniper",
-      "manufacturer": "jakobs",
-      "sources": [
-        "bio-thresher omega"
-      ],
-      "locations": [
-        "fades district"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 8,
-      "name": "bugbear",
-      "weapon_type": "assault rifle",
-      "manufacturer": "torgue",
-      "sources": [
-        "bio-thresher omega",
-        "the battle wagon"
-      ],
-      "locations": [
-        "fades district",
-        "stoneblood forest"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 9,
-      "name": "rainmaker",
-      "weapon_type": "sniper",
-      "manufacturer": "ripper",
-      "sources": [
-        "bloomreaper chests"
-      ],
-      "locations": [
-        "the bloom"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 10,
-      "name": "mantra",
-      "weapon_type": "shotgun",
-      "manufacturer": "maliwan",
-      "sources": [
-        "bloomreaper the invincible"
-      ],
-      "locations": [
-        "the bloom"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 11,
-      "name": "doeshot",
-      "weapon_type": "shotgun",
-      "manufacturer": "jakobs",
-      "sources": [
-        "bore-tex"
-      ],
-      "locations": [
-        "the demon's domain"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 12,
-      "name": "roulette",
-      "weapon_type": "pistol",
-      "manufacturer": "order",
-      "sources": [
-        "bore-tex"
-      ],
-      "locations": [
-        "the demon's domain"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 13,
-      "name": "boomslang",
-      "weapon_type": "sniper",
-      "manufacturer": "jakobs",
-      "sources": [
-        "bramblesong"
-      ],
-      "locations": [
-        "stoneblood forest"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 14,
-      "name": "convergence",
-      "weapon_type": "shotgun",
-      "manufacturer": "ripper",
-      "sources": [
-        "bramblesong"
-      ],
-      "locations": [
-        "stoneblood forest"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 15,
-      "name": "queen's rest",
-      "weapon_type": "pistol",
-      "manufacturer": "torgue",
-      "sources": [
-        "callis",
-        "the ripper queen"
-      ],
-      "locations": [
-        "moon-called throne"
-      ],
-      "has_phosphene": true,
-      "completed": true
-    },
-    {
-      "id": 16,
-      "name": "hot slugger",
-      "weapon_type": "shotgun",
-      "manufacturer": "jakobs",
-      "sources": [
-        "callous"
-      ],
-      "locations": [
-        "heart of the mountain"
-      ],
-      "has_phosphene": true,
-      "completed": true
-    },
-    {
-      "id": 17,
-      "name": "kaleidosplode",
-      "weapon_type": "shotgun",
-      "manufacturer": "maliwan",
-      "sources": [
-        "callous"
-      ],
-      "locations": [
-        "heart of the mountain"
-      ],
-      "has_phosphene": true,
-      "completed": true
-    },
-    {
-      "id": 18,
-      "name": "crow-sourced",
-      "weapon_type": "assault rifle",
-      "manufacturer": "order",
-      "sources": [
-        "captain willis"
-      ],
-      "locations": [
-        "the maelstrom"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 19,
-      "name": "reminisce",
-      "weapon_type": "shotgun",
-      "manufacturer": "maliwan",
-      "sources": [
-        "captain willis"
-      ],
-      "locations": [
-        "the maelstrom"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 20,
-      "name": "bubbles",
-      "weapon_type": "assault rifle",
-      "manufacturer": "vladof",
-      "sources": [
-        "chiselbella"
-      ],
-      "locations": [
-        "the demon's domain"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 21,
-      "name": "mercurious",
-      "weapon_type": "smg",
-      "manufacturer": "vladof",
-      "sources": [
-        "chiselbella"
-      ],
-      "locations": [
-        "the demon's domain"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 22,
-      "name": "hemorrhage",
-      "weapon_type": "sniper",
-      "manufacturer": "vladof",
-      "sources": [
-        "colonel crash"
-      ],
-      "locations": [
-        "dcn feuermann"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 23,
-      "name": "bully",
-      "weapon_type": "pistol",
-      "manufacturer": "order",
-      "sources": [
-        "core observer"
-      ],
-      "locations": [
-        "the howl"
-      ],
-      "has_phosphene": true,
-      "completed": true
-    },
-    {
-      "id": 24,
-      "name": "divided focus",
-      "weapon_type": "assault rifle",
-      "manufacturer": "tediore",
-      "sources": [
-        "core observer"
-      ],
-      "locations": [
-        "the howl"
-      ],
-      "has_phosphene": true,
-      "completed": true
-    },
-    {
-      "id": 25,
-      "name": "laser cutter",
-      "weapon_type": "assault rifle",
-      "manufacturer": "vladof",
-      "sources": [
-        "corporal brennan"
-      ],
-      "locations": [
-        "crooked teeth"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 26,
-      "name": "crazed earl",
-      "weapon_type": "shotgun",
-      "manufacturer": "ripper",
-      "sources": [
-        "crazed earl"
-      ],
-      "locations": [
-        "bloodstained hollow"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 27,
-      "name": "scoot'n'shoot",
-      "weapon_type": "pistol",
-      "manufacturer": "torgue",
-      "sources": [
-        "crazed earl"
-      ],
-      "locations": [
-        "bloodstained hollow"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 28,
-      "name": "bonnie and clyde",
-      "weapon_type": "assault rifle",
-      "manufacturer": "jakobs",
-      "sources": [
-        "directive-0"
-      ],
-      "locations": [
-        "terminus district"
-      ],
-      "has_phosphene": true,
-      "completed": true
-    },
-    {
-      "id": 29,
-      "name": "rowan's charge",
-      "weapon_type": "assault rifle",
-      "manufacturer": "jakobs",
-      "sources": [
-        "directive-0"
-      ],
-      "locations": [
-        "terminus district"
-      ],
-      "has_phosphene": true,
-      "completed": true
-    },
-    {
-      "id": 30,
-      "name": "whiskey foxtrot",
-      "weapon_type": "assault rifle",
-      "manufacturer": "vladof",
-      "sources": [
-        "directive-0"
-      ],
-      "locations": [
-        "terminus district"
-      ],
-      "has_phosphene": true,
-      "completed": true
-    },
-    {
-      "id": 31,
-      "name": "sideshow",
-      "weapon_type": "pistol",
-      "manufacturer": "tediore",
-      "sources": [
-        "divisioner"
-      ],
-      "locations": [
-        "the low leys"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 32,
-      "name": "g.m.r.",
-      "weapon_type": "assault rifle",
-      "manufacturer": "order",
-      "sources": [
-        "driller hole"
-      ],
-      "locations": [
-        "tonnage peel"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 33,
-      "name": "katagawa's revenge",
-      "weapon_type": "sniper",
-      "manufacturer": "maliwan",
-      "sources": [
-        "driller hole"
-      ],
-      "locations": [
-        "tonnage peel"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 34,
-      "name": "bloody lumberjack",
-      "weapon_type": "assault rifle",
-      "manufacturer": "daedalus",
-      "sources": [
-        "foundry freaks"
-      ],
-      "locations": [
-        "idolator's noose"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 35,
-      "name": "chuck",
-      "weapon_type": "assault rifle",
-      "manufacturer": "tediore",
-      "sources": [
-        "foundry freaks",
-        "fractis"
-      ],
-      "locations": [
-        "idolator's noose",
-        "grindstone of the worthy"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 36,
-      "name": "oscar mike",
-      "weapon_type": "assault rifle",
-      "manufacturer": "daedalus",
-      "sources": [
-        "genone"
-      ],
-      "locations": [
-        "lopside"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 37,
-      "name": "aegon's dream",
-      "weapon_type": "assault rifle",
-      "manufacturer": "vladof",
-      "sources": [
-        "horace"
-      ],
-      "locations": [
-        "hungering plain"
-      ],
-      "has_phosphene": true,
-      "completed": true
-    },
-    {
-      "id": 38,
-      "name": "lucky clover",
-      "weapon_type": "pistol",
-      "manufacturer": "order",
-      "sources": [
-        "horace"
-      ],
-      "locations": [
-        "hungering plain"
-      ],
-      "has_phosphene": true,
-      "completed": true
-    },
-    {
-      "id": 39,
-      "name": "golden god",
-      "weapon_type": "shotgun",
-      "manufacturer": "ripper",
-      "sources": [
-        "idolator sol"
-      ],
-      "locations": [
-        "fortress indomita"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 40,
-      "name": "goremaster",
-      "weapon_type": "shotgun",
-      "manufacturer": "ripper",
-      "sources": [
-        "idolator sol"
-      ],
-      "locations": [
-        "fortress indomita"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 41,
-      "name": "onslaught",
-      "weapon_type": "smg",
-      "manufacturer": "vladof",
-      "sources": [
-        "idolator sol"
-      ],
-      "locations": [
-        "fortress indomita"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 42,
-      "name": "rainbow vomit",
-      "weapon_type": "shotgun",
-      "manufacturer": "jakobs",
-      "sources": [
-        "leader willem"
-      ],
-      "locations": [
-        "grindstone of the worthy"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 43,
-      "name": "zipper",
-      "weapon_type": "pistol",
-      "manufacturer": "daedalus",
-      "sources": [
-        "leader willem"
-      ],
-      "locations": [
-        "grindstone of the worthy"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 44,
-      "name": "hellwalker",
-      "weapon_type": "shotgun",
-      "manufacturer": "jakobs",
-      "sources": [
-        "meathead riders"
-      ],
-      "locations": [
-        "cuspid climb"
-      ],
-      "has_phosphene": true,
-      "completed": true
-    },
-    {
-      "id": 45,
-      "name": "lucian's flank",
-      "weapon_type": "assault rifle",
-      "manufacturer": "vladof",
-      "sources": [
-        "meathead riders"
-      ],
-      "locations": [
-        "cuspid climb"
-      ],
-      "has_phosphene": true,
-      "completed": true
-    },
-    {
-      "id": 46,
-      "name": "complex root",
-      "weapon_type": "sniper",
-      "manufacturer": "maliwan",
-      "sources": [
-        "mimicron"
-      ],
-      "locations": [
-        "idolator's noose"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 47,
-      "name": "luty madlad",
-      "weapon_type": "smg",
-      "manufacturer": "daedalus",
-      "sources": [
-        "mimicron"
-      ],
-      "locations": [
-        "idolator's noose"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 48,
-      "name": "inscriber",
-      "weapon_type": "pistol",
-      "manufacturer": "tediore",
-      "sources": [
-        "minister screw & donk"
-      ],
-      "locations": [
-        "ministry of culture"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 49,
-      "name": "rowdy rider",
-      "weapon_type": "assault rifle",
-      "manufacturer": "jakobs",
-      "sources": [
-        "minister screw & donk"
-      ],
-      "locations": [
-        "ministry of culture"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 50,
-      "name": "ohm i got",
-      "weapon_type": "smg",
-      "manufacturer": "maliwan",
-      "sources": [
-        "moon-maddened callis"
-      ],
-      "locations": [
-        "elpis orbital shatterfield"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 51,
-      "name": "cold shoulder",
-      "weapon_type": "assault rifle",
-      "manufacturer": "torgue",
-      "sources": [
-        "moxxi's tip jar"
-      ],
-      "locations": [
-        "ruined sumplands"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 52,
-      "name": "sweet embrace",
-      "weapon_type": "shotgun",
-      "manufacturer": "maliwan",
-      "sources": [
-        "moxxi's tip jar"
-      ],
-      "locations": [
-        "ruined sumplands"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 53,
-      "name": "falke",
-      "weapon_type": "smg",
-      "manufacturer": "ripper",
-      "sources": [
-        "nightmare rift"
-      ],
-      "locations": [
-        "dlc 1 wide"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 54,
-      "name": "fearstalker",
-      "weapon_type": "sniper",
-      "manufacturer": "jakobs",
-      "sources": [
-        "nightmare rift"
-      ],
-      "locations": [
-        "dlc 1 wide"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 55,
-      "name": "unstable kor",
-      "weapon_type": "shotgun",
-      "manufacturer": "torgue",
-      "sources": [
-        "nightmare rift"
-      ],
-      "locations": [
-        "dlc 1 wide"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 56,
-      "name": "conflux",
-      "weapon_type": "sniper",
-      "manufacturer": "maliwan",
-      "sources": [
-        "ordonite processor mini-bosses"
-      ],
-      "locations": [
-        "the demon's domain"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 57,
-      "name": "eigenburst",
-      "weapon_type": "shotgun",
-      "manufacturer": "tediore",
-      "sources": [
-        "ordonite processor mini-bosses"
-      ],
-      "locations": [
-        "the demon's domain"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 58,
-      "name": "shalashaska",
-      "weapon_type": "pistol",
-      "manufacturer": "jakobs",
-      "sources": [
-        "ordonite processor mini-bosses"
-      ],
-      "locations": [
-        "the demon's domain"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 59,
-      "name": "phantom flame",
-      "weapon_type": "pistol",
-      "manufacturer": "jakobs",
-      "sources": [
-        "pango & bango"
-      ],
-      "locations": [
-        "lopside"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 60,
-      "name": "prince harming",
-      "weapon_type": "smg",
-      "manufacturer": "ripper",
-      "sources": [
-        "pango & bango"
-      ],
-      "locations": [
-        "lopside"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 61,
-      "name": "stray",
-      "weapon_type": "sniper",
-      "manufacturer": "ripper",
-      "sources": [
-        "pango & bango"
-      ],
-      "locations": [
-        "lopside"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 62,
-      "name": "husky friend",
-      "weapon_type": "shotgun",
-      "manufacturer": "tediore",
-      "sources": [
-        "primordial guardian inceptus"
-      ],
-      "locations": [
-        "vault of inceptus"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 63,
-      "name": "kaoson",
-      "weapon_type": "smg",
-      "manufacturer": "vladof",
-      "sources": [
-        "primordial guardian origo"
-      ],
-      "locations": [
-        "vault of origo"
-      ],
-      "has_phosphene": true,
-      "completed": true
-    },
-    {
-      "id": 64,
-      "name": "anarchy",
-      "weapon_type": "shotgun",
-      "manufacturer": "tediore",
-      "sources": [
-        "primordial guardian radix"
-      ],
-      "locations": [
-        "vault of radix"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 65,
-      "name": "plasma coil",
-      "weapon_type": "smg",
-      "manufacturer": "maliwan",
-      "sources": [
-        "primordial guardian timekeeper"
-      ],
-      "locations": [
-        "upper dominion"
-      ],
-      "has_phosphene": true,
-      "completed": true
-    },
-    {
-      "id": 66,
-      "name": "star helix",
-      "weapon_type": "assault rifle",
-      "manufacturer": "daedalus",
-      "sources": [
-        "primordial guardian timekeeper"
-      ],
-      "locations": [
-        "upper dominion"
-      ],
-      "has_phosphene": true,
-      "completed": true
-    },
-    {
-      "id": 67,
-      "name": "wombo combo",
-      "weapon_type": "assault rifle",
-      "manufacturer": "vladof",
-      "sources": [
-        "rippa roadbirds"
-      ],
-      "locations": [
-        "ruined sumplands"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 68,
-      "name": "san saba songbird",
-      "weapon_type": "pistol",
-      "manufacturer": "jakobs",
-      "sources": [
-        "rocken roller"
-      ],
-      "locations": [
-        "ruined sumplands"
-      ],
-      "has_phosphene": true,
-      "completed": true
-    },
-    {
-      "id": 69,
-      "name": "t.k's wave",
-      "weapon_type": "shotgun",
-      "manufacturer": "jakobs",
-      "sources": [
-        "rocken roller"
-      ],
-      "locations": [
-        "ruined sumplands"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 70,
-      "name": "vamoose",
-      "weapon_type": "sniper",
-      "manufacturer": "ripper",
-      "sources": [
-        "shadowpelt"
-      ],
-      "locations": [
-        "cuspid climb"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 71,
-      "name": "noisy cricket",
-      "weapon_type": "pistol",
-      "manufacturer": "order",
-      "sources": [
-        "sidney pointylegs"
-      ],
-      "locations": [
-        "hungering plain"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 72,
-      "name": "roach",
-      "weapon_type": "pistol",
-      "manufacturer": "torgue",
-      "sources": [
-        "skull orchid"
-      ],
-      "locations": [
-        "grindstone of the worthy"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 73,
-      "name": "hellfire",
-      "weapon_type": "smg",
-      "manufacturer": "ripper",
-      "sources": [
-        "skyspanner kratch"
-      ],
-      "locations": [
-        "cuspid climb"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 74,
-      "name": "linebacker",
-      "weapon_type": "shotgun",
-      "manufacturer": "torgue",
-      "sources": [
-        "skyspanner kratch"
-      ],
-      "locations": [
-        "cuspid climb"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 75,
-      "name": "birt's bees",
-      "weapon_type": "smg",
-      "manufacturer": "vladof",
-      "sources": [
-        "sludgemaw"
-      ],
-      "locations": [
-        "idolator's noose"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 76,
-      "name": "kickballer",
-      "weapon_type": "shotgun",
-      "manufacturer": "maliwan",
-      "sources": [
-        "sludgemaw"
-      ],
-      "locations": [
-        "idolator's noose"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 77,
-      "name": "lead balloon",
-      "weapon_type": "shotgun",
-      "manufacturer": "torgue",
-      "sources": [
-        "splashzone"
-      ],
-      "locations": [
-        "coastal bonescape"
-      ],
-      "has_phosphene": true,
-      "completed": true
-    },
-    {
-      "id": 78,
-      "name": "broken wings",
-      "weapon_type": "smg",
-      "manufacturer": "maliwan",
-      "sources": [
-        "stone demon"
-      ],
-      "locations": [
-        "the demon's domain"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 79,
-      "name": "fleabag",
-      "weapon_type": "assault rifle",
-      "manufacturer": "torgue",
-      "sources": [
-        "stone demon"
-      ],
-      "locations": [
-        "the demon's domain"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 80,
-      "name": "handcannon",
-      "weapon_type": "pistol",
-      "manufacturer": "torgue",
-      "sources": [
-        "stone demon",
-        "ordonite processor mini-bosses"
-      ],
-      "locations": [
-        "the demon's domain",
-        "the demon's domain"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 81,
-      "name": "hair trigger",
-      "weapon_type": "shotgun",
-      "manufacturer": "ripper",
-      "sources": [
-        "sturm & drang"
-      ],
-      "locations": [
-        "the demon's domain"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 82,
-      "name": "laser disker",
-      "weapon_type": "assault rifle",
-      "manufacturer": "tediore",
-      "sources": [
-        "sturm & drang"
-      ],
-      "locations": [
-        "the demon's domain"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 83,
-      "name": "stop gap",
-      "weapon_type": "sniper",
-      "manufacturer": "vladof",
-      "sources": [
-        "the backhive"
-      ],
-      "locations": [
-        "dissected plateau"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 84,
-      "name": "finnity xxx-l",
-      "weapon_type": "sniper",
-      "manufacturer": "vladof",
-      "sources": [
-        "the battle wagon"
-      ],
-      "locations": [
-        "stoneblood forest"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 85,
-      "name": "asher's rise",
-      "weapon_type": "sniper",
-      "manufacturer": "maliwan",
-      "sources": [
-        "the oppressor"
-      ],
-      "locations": [
-        "dissected plateau"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 86,
-      "name": "flash cyclone",
-      "weapon_type": "smg",
-      "manufacturer": "maliwan",
-      "sources": [
-        "the penitent steel"
-      ],
-      "locations": [
-        "windswept wastes"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 87,
-      "name": "soul survivor",
-      "weapon_type": "pistol",
-      "manufacturer": "daedalus",
-      "sources": [
-        "the penitent steel"
-      ],
-      "locations": [
-        "windswept wastes"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 88,
-      "name": "borstel ballista",
-      "weapon_type": "sniper",
-      "manufacturer": "jakobs",
-      "sources": [
-        "the timekeeper"
-      ],
-      "locations": [
-        "upper dominion"
-      ],
-      "has_phosphene": true,
-      "completed": true
-    },
-    {
-      "id": 89,
-      "name": "symmetry",
-      "weapon_type": "sniper",
-      "manufacturer": "order",
-      "sources": [
-        "the timekeeper"
-      ],
-      "locations": [
-        "upper dominion"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 90,
-      "name": "hardpoint",
-      "weapon_type": "pistol",
-      "manufacturer": "torgue",
-      "sources": [
-        "vault card: mercenary day"
-      ],
-      "locations": [
-        "world wide"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 91,
-      "name": "missilaser",
-      "weapon_type": "shotgun",
-      "manufacturer": "daedalus",
-      "sources": [
-        "vault card: mercenary day"
-      ],
-      "locations": [
-        "world wide"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 92,
-      "name": "roil",
-      "weapon_type": "smg",
-      "manufacturer": "ripper",
-      "sources": [
-        "vault card: mercenary day"
-      ],
-      "locations": [
-        "world wide"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 93,
-      "name": "rooker",
-      "weapon_type": "sniper",
-      "manufacturer": "order",
-      "sources": [
-        "vault card: mercenary day"
-      ],
-      "locations": [
-        "world wide"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 94,
-      "name": "arc-tan",
-      "weapon_type": "shotgun",
-      "manufacturer": "torgue",
-      "sources": [
-        "vault card: stone demon"
-      ],
-      "locations": [
-        "world wide"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 95,
-      "name": "mercredi",
-      "weapon_type": "assault rifle",
-      "manufacturer": "daedalus",
-      "sources": [
-        "vault card: stone demon"
-      ],
-      "locations": [
-        "world wide"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 96,
-      "name": "tankbuster",
-      "weapon_type": "sniper",
-      "manufacturer": "ripper",
-      "sources": [
-        "vault card: stone demon"
-      ],
-      "locations": [
-        "world wide"
-      ],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 97,
-      "name": "goalkeeper",
-      "weapon_type": "assault rifle",
-      "manufacturer": "order",
-      "sources": [
-        "vile experiments"
-      ],
-      "locations": [
-        "terminus district"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 98,
-      "name": "seventh sense",
-      "weapon_type": "pistol",
-      "manufacturer": "jakobs",
-      "sources": [
-        "vile experiments"
-      ],
-      "locations": [
-        "terminus district"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 99,
-      "name": "ruby's grasp",
-      "weapon_type": "pistol",
-      "manufacturer": "tediore",
-      "sources": [
-        "vile lictor"
-      ],
-      "locations": [
-        "umbral foundry"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 100,
-      "name": "king's gambit",
-      "weapon_type": "pistol",
-      "manufacturer": "jakobs",
-      "sources": [
-        "vile prototype"
-      ],
-      "locations": [
-        "windspear"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 101,
-      "name": "rangefinder",
-      "weapon_type": "pistol",
-      "manufacturer": "daedalus",
-      "sources": [
-        "vile prototype"
-      ],
-      "locations": [
-        "windspear"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 102,
-      "name": "darkbeast",
-      "weapon_type": "smg",
-      "manufacturer": "daedalus",
-      "sources": [
-        "voraxis"
-      ],
-      "locations": [
-        "coastal bonescape"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 103,
-      "name": "potato thrower iv",
-      "weapon_type": "assault rifle",
-      "manufacturer": "torgue",
-      "sources": [
-        "voraxis",
-        "rippa roadbirds"
-      ],
-      "locations": [
-        "coastal bonescape",
-        "ruined sumplands"
-      ],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 104,
-      "name": "first impression",
-      "weapon_type": "assault rifle",
-      "manufacturer": "daedalus",
-      "sources": [],
-      "locations": [],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 105,
-      "name": "forsaken chaos",
-      "weapon_type": "shotgun",
-      "manufacturer": "tediore",
-      "sources": [],
-      "locations": [],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 106,
-      "name": "matador's match",
-      "weapon_type": "smg",
-      "manufacturer": "maliwan",
-      "sources": [],
-      "locations": [],
-      "has_phosphene": false,
-      "completed": false
-    },
-    {
-      "id": 107,
-      "name": "midnight defiance",
-      "weapon_type": "sniper",
-      "manufacturer": "vladof",
-      "sources": [],
-      "locations": [],
-      "has_phosphene": true,
-      "completed": false
-    },
-    {
-      "id": 108,
-      "name": "murmur",
-      "weapon_type": "assault rifle",
-      "manufacturer": "tediore",
-      "sources": [],
-      "locations": [],
-      "has_phosphene": false,
-      "completed": false
-    }
-  ]
-  
+  {
+    "id": 2,
+    "name": "acey may",
+    "weapon_type": "shotgun",
+    "manufacturer": "daedalus",
+    "sources": [
+      "arjay"
+    ],
+    "locations": [
+      "upper dominion"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 37,
+    "name": "aegon's dream",
+    "weapon_type": "assault rifle",
+    "manufacturer": "vladof",
+    "sources": [
+      "horace"
+    ],
+    "locations": [
+      "hungering plain"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 64,
+    "name": "anarchy",
+    "weapon_type": "shotgun",
+    "manufacturer": "tediore",
+    "sources": [
+      "primordial guardian radix"
+    ],
+    "locations": [
+      "vault of radix"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 94,
+    "name": "arc-tan",
+    "weapon_type": "shotgun",
+    "manufacturer": "torgue",
+    "sources": [
+      "vault card: stone demon"
+    ],
+    "locations": [
+      "world wide"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 85,
+    "name": "asher's rise",
+    "weapon_type": "sniper",
+    "manufacturer": "maliwan",
+    "sources": [
+      "the oppressor"
+    ],
+    "locations": [
+      "dissected plateau"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 75,
+    "name": "birt's bees",
+    "weapon_type": "smg",
+    "manufacturer": "vladof",
+    "sources": [
+      "sludgemaw"
+    ],
+    "locations": [
+      "idolator's noose"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 34,
+    "name": "bloody lumberjack",
+    "weapon_type": "assault rifle",
+    "manufacturer": "daedalus",
+    "sources": [
+      "foundry freaks"
+    ],
+    "locations": [
+      "idolator's noose"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 4,
+    "name": "bod",
+    "weapon_type": "shotgun",
+    "manufacturer": "daedalus",
+    "sources": [
+      "axemaul"
+    ],
+    "locations": [
+      "carcadia district"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 28,
+    "name": "bonnie and clyde",
+    "weapon_type": "assault rifle",
+    "manufacturer": "jakobs",
+    "sources": [
+      "directive-0"
+    ],
+    "locations": [
+      "terminus district"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 13,
+    "name": "boomslang",
+    "weapon_type": "sniper",
+    "manufacturer": "jakobs",
+    "sources": [
+      "bramblesong"
+    ],
+    "locations": [
+      "stoneblood forest"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 88,
+    "name": "borstel ballista",
+    "weapon_type": "sniper",
+    "manufacturer": "jakobs",
+    "sources": [
+      "the timekeeper"
+    ],
+    "locations": [
+      "upper dominion"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 78,
+    "name": "broken wings",
+    "weapon_type": "smg",
+    "manufacturer": "maliwan",
+    "sources": [
+      "stone demon"
+    ],
+    "locations": [
+      "the demon's domain"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 20,
+    "name": "bubbles",
+    "weapon_type": "assault rifle",
+    "manufacturer": "vladof",
+    "sources": [
+      "chiselbella"
+    ],
+    "locations": [
+      "the demon's domain"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 6,
+    "name": "budget deity",
+    "weapon_type": "pistol",
+    "manufacturer": "tediore",
+    "sources": [
+      "bio-bulkhead"
+    ],
+    "locations": [
+      "dissected plateau"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 8,
+    "name": "bugbear",
+    "weapon_type": "assault rifle",
+    "manufacturer": "torgue",
+    "sources": [
+      "bio-thresher omega",
+      "the battle wagon"
+    ],
+    "locations": [
+      "fades district",
+      "stoneblood forest"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 23,
+    "name": "bully",
+    "weapon_type": "pistol",
+    "manufacturer": "order",
+    "sources": [
+      "core observer"
+    ],
+    "locations": [
+      "the howl"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 35,
+    "name": "chuck",
+    "weapon_type": "assault rifle",
+    "manufacturer": "tediore",
+    "sources": [
+      "foundry freaks",
+      "fractis"
+    ],
+    "locations": [
+      "idolator's noose",
+      "grindstone of the worthy"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 51,
+    "name": "cold shoulder",
+    "weapon_type": "assault rifle",
+    "manufacturer": "torgue",
+    "sources": [
+      "moxxi's tip jar"
+    ],
+    "locations": [
+      "ruined sumplands"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 46,
+    "name": "complex root",
+    "weapon_type": "sniper",
+    "manufacturer": "maliwan",
+    "sources": [
+      "mimicron"
+    ],
+    "locations": [
+      "idolator's noose"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 56,
+    "name": "conflux",
+    "weapon_type": "sniper",
+    "manufacturer": "maliwan",
+    "sources": [
+      "ordonite processor mini-bosses"
+    ],
+    "locations": [
+      "the demon's domain"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 14,
+    "name": "convergence",
+    "weapon_type": "shotgun",
+    "manufacturer": "ripper",
+    "sources": [
+      "bramblesong"
+    ],
+    "locations": [
+      "stoneblood forest"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 26,
+    "name": "crazed earl",
+    "weapon_type": "shotgun",
+    "manufacturer": "ripper",
+    "sources": [
+      "crazed earl"
+    ],
+    "locations": [
+      "bloodstained hollow"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 18,
+    "name": "crow-sourced",
+    "weapon_type": "assault rifle",
+    "manufacturer": "order",
+    "sources": [
+      "captain willis"
+    ],
+    "locations": [
+      "the maelstrom"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 102,
+    "name": "darkbeast",
+    "weapon_type": "smg",
+    "manufacturer": "daedalus",
+    "sources": [
+      "voraxis"
+    ],
+    "locations": [
+      "coastal bonescape"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 24,
+    "name": "divided focus",
+    "weapon_type": "assault rifle",
+    "manufacturer": "tediore",
+    "sources": [
+      "core observer"
+    ],
+    "locations": [
+      "the howl"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 11,
+    "name": "doeshot",
+    "weapon_type": "shotgun",
+    "manufacturer": "jakobs",
+    "sources": [
+      "bore-tex"
+    ],
+    "locations": [
+      "the demon's domain"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 57,
+    "name": "eigenburst",
+    "weapon_type": "shotgun",
+    "manufacturer": "tediore",
+    "sources": [
+      "ordonite processor mini-bosses"
+    ],
+    "locations": [
+      "the demon's domain"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 53,
+    "name": "falke",
+    "weapon_type": "smg",
+    "manufacturer": "ripper",
+    "sources": [
+      "nightmare rift"
+    ],
+    "locations": [
+      "dlc 1 wide"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 54,
+    "name": "fearstalker",
+    "weapon_type": "sniper",
+    "manufacturer": "jakobs",
+    "sources": [
+      "nightmare rift"
+    ],
+    "locations": [
+      "dlc 1 wide"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 84,
+    "name": "finnity xxx-l",
+    "weapon_type": "sniper",
+    "manufacturer": "vladof",
+    "sources": [
+      "the battle wagon"
+    ],
+    "locations": [
+      "stoneblood forest"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 104,
+    "name": "first impression",
+    "weapon_type": "assault rifle",
+    "manufacturer": "daedalus",
+    "sources": [],
+    "locations": [],
+    "has_phosphene": false
+  },
+  {
+    "id": 3,
+    "name": "fisheye",
+    "weapon_type": "sniper",
+    "manufacturer": "order",
+    "sources": [
+      "arjay"
+    ],
+    "locations": [
+      "upper dominion"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 86,
+    "name": "flash cyclone",
+    "weapon_type": "smg",
+    "manufacturer": "maliwan",
+    "sources": [
+      "the penitent steel"
+    ],
+    "locations": [
+      "windswept wastes"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 79,
+    "name": "fleabag",
+    "weapon_type": "assault rifle",
+    "manufacturer": "torgue",
+    "sources": [
+      "stone demon"
+    ],
+    "locations": [
+      "the demon's domain"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 105,
+    "name": "forsaken chaos",
+    "weapon_type": "shotgun",
+    "manufacturer": "tediore",
+    "sources": [],
+    "locations": [],
+    "has_phosphene": true
+  },
+  {
+    "id": 32,
+    "name": "g.m.r.",
+    "weapon_type": "assault rifle",
+    "manufacturer": "order",
+    "sources": [
+      "driller hole"
+    ],
+    "locations": [
+      "tonnage peel"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 97,
+    "name": "goalkeeper",
+    "weapon_type": "assault rifle",
+    "manufacturer": "order",
+    "sources": [
+      "vile experiments"
+    ],
+    "locations": [
+      "terminus district"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 39,
+    "name": "golden god",
+    "weapon_type": "shotgun",
+    "manufacturer": "ripper",
+    "sources": [
+      "idolator sol"
+    ],
+    "locations": [
+      "fortress indomita"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 40,
+    "name": "goremaster",
+    "weapon_type": "shotgun",
+    "manufacturer": "ripper",
+    "sources": [
+      "idolator sol"
+    ],
+    "locations": [
+      "fortress indomita"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 81,
+    "name": "hair trigger",
+    "weapon_type": "shotgun",
+    "manufacturer": "ripper",
+    "sources": [
+      "sturm & drang"
+    ],
+    "locations": [
+      "the demon's domain"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 80,
+    "name": "handcannon",
+    "weapon_type": "pistol",
+    "manufacturer": "torgue",
+    "sources": [
+      "stone demon",
+      "ordonite processor mini-bosses"
+    ],
+    "locations": [
+      "the demon's domain",
+      "the demon's domain"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 90,
+    "name": "hardpoint",
+    "weapon_type": "pistol",
+    "manufacturer": "torgue",
+    "sources": [
+      "vault card: mercenary day"
+    ],
+    "locations": [
+      "world wide"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 73,
+    "name": "hellfire",
+    "weapon_type": "smg",
+    "manufacturer": "ripper",
+    "sources": [
+      "skyspanner kratch"
+    ],
+    "locations": [
+      "cuspid climb"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 44,
+    "name": "hellwalker",
+    "weapon_type": "shotgun",
+    "manufacturer": "jakobs",
+    "sources": [
+      "meathead riders"
+    ],
+    "locations": [
+      "cuspid climb"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 22,
+    "name": "hemorrhage",
+    "weapon_type": "sniper",
+    "manufacturer": "vladof",
+    "sources": [
+      "colonel crash"
+    ],
+    "locations": [
+      "dcn feuermann"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 16,
+    "name": "hot slugger",
+    "weapon_type": "shotgun",
+    "manufacturer": "jakobs",
+    "sources": [
+      "callous"
+    ],
+    "locations": [
+      "heart of the mountain"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 62,
+    "name": "husky friend",
+    "weapon_type": "shotgun",
+    "manufacturer": "tediore",
+    "sources": [
+      "primordial guardian inceptus"
+    ],
+    "locations": [
+      "vault of inceptus"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 48,
+    "name": "inscriber",
+    "weapon_type": "pistol",
+    "manufacturer": "tediore",
+    "sources": [
+      "minister screw & donk"
+    ],
+    "locations": [
+      "ministry of culture"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 17,
+    "name": "kaleidosplode",
+    "weapon_type": "shotgun",
+    "manufacturer": "maliwan",
+    "sources": [
+      "callous"
+    ],
+    "locations": [
+      "heart of the mountain"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 63,
+    "name": "kaoson",
+    "weapon_type": "smg",
+    "manufacturer": "vladof",
+    "sources": [
+      "primordial guardian origo"
+    ],
+    "locations": [
+      "vault of origo"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 33,
+    "name": "katagawa's revenge",
+    "weapon_type": "sniper",
+    "manufacturer": "maliwan",
+    "sources": [
+      "driller hole"
+    ],
+    "locations": [
+      "tonnage peel"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 76,
+    "name": "kickballer",
+    "weapon_type": "shotgun",
+    "manufacturer": "maliwan",
+    "sources": [
+      "sludgemaw"
+    ],
+    "locations": [
+      "idolator's noose"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 100,
+    "name": "king's gambit",
+    "weapon_type": "pistol",
+    "manufacturer": "jakobs",
+    "sources": [
+      "vile prototype"
+    ],
+    "locations": [
+      "windspear"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 25,
+    "name": "laser cutter",
+    "weapon_type": "assault rifle",
+    "manufacturer": "vladof",
+    "sources": [
+      "corporal brennan"
+    ],
+    "locations": [
+      "crooked teeth"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 82,
+    "name": "laser disker",
+    "weapon_type": "assault rifle",
+    "manufacturer": "tediore",
+    "sources": [
+      "sturm & drang"
+    ],
+    "locations": [
+      "the demon's domain"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 77,
+    "name": "lead balloon",
+    "weapon_type": "shotgun",
+    "manufacturer": "torgue",
+    "sources": [
+      "splashzone"
+    ],
+    "locations": [
+      "coastal bonescape"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 74,
+    "name": "linebacker",
+    "weapon_type": "shotgun",
+    "manufacturer": "torgue",
+    "sources": [
+      "skyspanner kratch"
+    ],
+    "locations": [
+      "cuspid climb"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 45,
+    "name": "lucian's flank",
+    "weapon_type": "assault rifle",
+    "manufacturer": "vladof",
+    "sources": [
+      "meathead riders"
+    ],
+    "locations": [
+      "cuspid climb"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 38,
+    "name": "lucky clover",
+    "weapon_type": "pistol",
+    "manufacturer": "order",
+    "sources": [
+      "horace"
+    ],
+    "locations": [
+      "hungering plain"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 47,
+    "name": "luty madlad",
+    "weapon_type": "smg",
+    "manufacturer": "daedalus",
+    "sources": [
+      "mimicron"
+    ],
+    "locations": [
+      "idolator's noose"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 10,
+    "name": "mantra",
+    "weapon_type": "shotgun",
+    "manufacturer": "maliwan",
+    "sources": [
+      "bloomreaper the invincible"
+    ],
+    "locations": [
+      "the bloom"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 106,
+    "name": "matador's match",
+    "weapon_type": "smg",
+    "manufacturer": "maliwan",
+    "sources": [],
+    "locations": [],
+    "has_phosphene": false
+  },
+  {
+    "id": 95,
+    "name": "mercredi",
+    "weapon_type": "assault rifle",
+    "manufacturer": "daedalus",
+    "sources": [
+      "vault card: stone demon"
+    ],
+    "locations": [
+      "world wide"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 21,
+    "name": "mercurious",
+    "weapon_type": "smg",
+    "manufacturer": "vladof",
+    "sources": [
+      "chiselbella"
+    ],
+    "locations": [
+      "the demon's domain"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 107,
+    "name": "midnight defiance",
+    "weapon_type": "sniper",
+    "manufacturer": "vladof",
+    "sources": [],
+    "locations": [],
+    "has_phosphene": true
+  },
+  {
+    "id": 91,
+    "name": "missilaser",
+    "weapon_type": "shotgun",
+    "manufacturer": "daedalus",
+    "sources": [
+      "vault card: mercenary day"
+    ],
+    "locations": [
+      "world wide"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 108,
+    "name": "murmur",
+    "weapon_type": "assault rifle",
+    "manufacturer": "tediore",
+    "sources": [],
+    "locations": [],
+    "has_phosphene": false
+  },
+  {
+    "id": 71,
+    "name": "noisy cricket",
+    "weapon_type": "pistol",
+    "manufacturer": "order",
+    "sources": [
+      "sidney pointylegs"
+    ],
+    "locations": [
+      "hungering plain"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 50,
+    "name": "ohm i got",
+    "weapon_type": "smg",
+    "manufacturer": "maliwan",
+    "sources": [
+      "moon-maddened callis"
+    ],
+    "locations": [
+      "elpis orbital shatterfield"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 41,
+    "name": "onslaught",
+    "weapon_type": "smg",
+    "manufacturer": "vladof",
+    "sources": [
+      "idolator sol"
+    ],
+    "locations": [
+      "fortress indomita"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 36,
+    "name": "oscar mike",
+    "weapon_type": "assault rifle",
+    "manufacturer": "daedalus",
+    "sources": [
+      "genone"
+    ],
+    "locations": [
+      "lopside"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 59,
+    "name": "phantom flame",
+    "weapon_type": "pistol",
+    "manufacturer": "jakobs",
+    "sources": [
+      "pango & bango"
+    ],
+    "locations": [
+      "lopside"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 65,
+    "name": "plasma coil",
+    "weapon_type": "smg",
+    "manufacturer": "maliwan",
+    "sources": [
+      "primordial guardian timekeeper"
+    ],
+    "locations": [
+      "upper dominion"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 103,
+    "name": "potato thrower iv",
+    "weapon_type": "assault rifle",
+    "manufacturer": "torgue",
+    "sources": [
+      "voraxis",
+      "rippa roadbirds"
+    ],
+    "locations": [
+      "coastal bonescape",
+      "ruined sumplands"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 60,
+    "name": "prince harming",
+    "weapon_type": "smg",
+    "manufacturer": "ripper",
+    "sources": [
+      "pango & bango"
+    ],
+    "locations": [
+      "lopside"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 1,
+    "name": "prowler",
+    "weapon_type": "smg",
+    "manufacturer": "daedalus",
+    "sources": [
+      "air raider scremulous"
+    ],
+    "locations": [
+      "crooked teeth"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 15,
+    "name": "queen's rest",
+    "weapon_type": "pistol",
+    "manufacturer": "torgue",
+    "sources": [
+      "callis",
+      "the ripper queen"
+    ],
+    "locations": [
+      "moon-called throne"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 42,
+    "name": "rainbow vomit",
+    "weapon_type": "shotgun",
+    "manufacturer": "jakobs",
+    "sources": [
+      "leader willem"
+    ],
+    "locations": [
+      "grindstone of the worthy"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 9,
+    "name": "rainmaker",
+    "weapon_type": "sniper",
+    "manufacturer": "ripper",
+    "sources": [
+      "bloomreaper chests"
+    ],
+    "locations": [
+      "the bloom"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 101,
+    "name": "rangefinder",
+    "weapon_type": "pistol",
+    "manufacturer": "daedalus",
+    "sources": [
+      "vile prototype"
+    ],
+    "locations": [
+      "windspear"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 19,
+    "name": "reminisce",
+    "weapon_type": "shotgun",
+    "manufacturer": "maliwan",
+    "sources": [
+      "captain willis"
+    ],
+    "locations": [
+      "the maelstrom"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 72,
+    "name": "roach",
+    "weapon_type": "pistol",
+    "manufacturer": "torgue",
+    "sources": [
+      "skull orchid"
+    ],
+    "locations": [
+      "grindstone of the worthy"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 92,
+    "name": "roil",
+    "weapon_type": "smg",
+    "manufacturer": "ripper",
+    "sources": [
+      "vault card: mercenary day"
+    ],
+    "locations": [
+      "world wide"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 93,
+    "name": "rooker",
+    "weapon_type": "sniper",
+    "manufacturer": "order",
+    "sources": [
+      "vault card: mercenary day"
+    ],
+    "locations": [
+      "world wide"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 12,
+    "name": "roulette",
+    "weapon_type": "pistol",
+    "manufacturer": "order",
+    "sources": [
+      "bore-tex"
+    ],
+    "locations": [
+      "the demon's domain"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 29,
+    "name": "rowan's charge",
+    "weapon_type": "assault rifle",
+    "manufacturer": "jakobs",
+    "sources": [
+      "directive-0"
+    ],
+    "locations": [
+      "terminus district"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 49,
+    "name": "rowdy rider",
+    "weapon_type": "assault rifle",
+    "manufacturer": "jakobs",
+    "sources": [
+      "minister screw & donk"
+    ],
+    "locations": [
+      "ministry of culture"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 99,
+    "name": "ruby's grasp",
+    "weapon_type": "pistol",
+    "manufacturer": "tediore",
+    "sources": [
+      "vile lictor"
+    ],
+    "locations": [
+      "umbral foundry"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 68,
+    "name": "san saba songbird",
+    "weapon_type": "pistol",
+    "manufacturer": "jakobs",
+    "sources": [
+      "rocken roller"
+    ],
+    "locations": [
+      "ruined sumplands"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 27,
+    "name": "scoot'n'shoot",
+    "weapon_type": "pistol",
+    "manufacturer": "torgue",
+    "sources": [
+      "crazed earl"
+    ],
+    "locations": [
+      "bloodstained hollow"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 98,
+    "name": "seventh sense",
+    "weapon_type": "pistol",
+    "manufacturer": "jakobs",
+    "sources": [
+      "vile experiments"
+    ],
+    "locations": [
+      "terminus district"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 58,
+    "name": "shalashaska",
+    "weapon_type": "pistol",
+    "manufacturer": "jakobs",
+    "sources": [
+      "ordonite processor mini-bosses"
+    ],
+    "locations": [
+      "the demon's domain"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 31,
+    "name": "sideshow",
+    "weapon_type": "pistol",
+    "manufacturer": "tediore",
+    "sources": [
+      "divisioner"
+    ],
+    "locations": [
+      "the low leys"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 87,
+    "name": "soul survivor",
+    "weapon_type": "pistol",
+    "manufacturer": "daedalus",
+    "sources": [
+      "the penitent steel"
+    ],
+    "locations": [
+      "windswept wastes"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 66,
+    "name": "star helix",
+    "weapon_type": "assault rifle",
+    "manufacturer": "daedalus",
+    "sources": [
+      "primordial guardian timekeeper"
+    ],
+    "locations": [
+      "upper dominion"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 83,
+    "name": "stop gap",
+    "weapon_type": "sniper",
+    "manufacturer": "vladof",
+    "sources": [
+      "the backhive"
+    ],
+    "locations": [
+      "dissected plateau"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 61,
+    "name": "stray",
+    "weapon_type": "sniper",
+    "manufacturer": "ripper",
+    "sources": [
+      "pango & bango"
+    ],
+    "locations": [
+      "lopside"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 5,
+    "name": "sunspot",
+    "weapon_type": "pistol",
+    "manufacturer": "order",
+    "sources": [
+      "big oil"
+    ],
+    "locations": [
+      "bloodstained hollow"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 52,
+    "name": "sweet embrace",
+    "weapon_type": "shotgun",
+    "manufacturer": "maliwan",
+    "sources": [
+      "moxxi's tip jar"
+    ],
+    "locations": [
+      "ruined sumplands"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 89,
+    "name": "symmetry",
+    "weapon_type": "sniper",
+    "manufacturer": "order",
+    "sources": [
+      "the timekeeper"
+    ],
+    "locations": [
+      "upper dominion"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 69,
+    "name": "t.k's wave",
+    "weapon_type": "shotgun",
+    "manufacturer": "jakobs",
+    "sources": [
+      "rocken roller"
+    ],
+    "locations": [
+      "ruined sumplands"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 96,
+    "name": "tankbuster",
+    "weapon_type": "sniper",
+    "manufacturer": "ripper",
+    "sources": [
+      "vault card: stone demon"
+    ],
+    "locations": [
+      "world wide"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 7,
+    "name": "truck",
+    "weapon_type": "sniper",
+    "manufacturer": "jakobs",
+    "sources": [
+      "bio-thresher omega"
+    ],
+    "locations": [
+      "fades district"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 55,
+    "name": "unstable kor",
+    "weapon_type": "shotgun",
+    "manufacturer": "torgue",
+    "sources": [
+      "nightmare rift"
+    ],
+    "locations": [
+      "dlc 1 wide"
+    ],
+    "has_phosphene": false
+  },
+  {
+    "id": 70,
+    "name": "vamoose",
+    "weapon_type": "sniper",
+    "manufacturer": "ripper",
+    "sources": [
+      "shadowpelt"
+    ],
+    "locations": [
+      "cuspid climb"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 30,
+    "name": "whiskey foxtrot",
+    "weapon_type": "assault rifle",
+    "manufacturer": "vladof",
+    "sources": [
+      "directive-0"
+    ],
+    "locations": [
+      "terminus district"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 67,
+    "name": "wombo combo",
+    "weapon_type": "assault rifle",
+    "manufacturer": "vladof",
+    "sources": [
+      "rippa roadbirds"
+    ],
+    "locations": [
+      "ruined sumplands"
+    ],
+    "has_phosphene": true
+  },
+  {
+    "id": 43,
+    "name": "zipper",
+    "weapon_type": "pistol",
+    "manufacturer": "daedalus",
+    "sources": [
+      "leader willem"
+    ],
+    "locations": [
+      "grindstone of the worthy"
+    ],
+    "has_phosphene": true
+  }
+]
