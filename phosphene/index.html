@@ -12,10 +12,7 @@
 <body>
   <header>
     <div class="container">
-      <h1>phosphene tracker</h1>
-      <nav>
-        <a href="#">home</a>
-      </nav>
+      <h1><a href="index.html">phosphene tracker</a></h1>
     </div>
   </header>
 
@@ -29,11 +26,32 @@
         <p id="progress_text"></p>
       </section>
 
+      <section>
+        <h2>phosphene weapons</h2>
+
+        <div class="filters">
+          <input type="text" id="search" placeholder="search by weapon name">
+
+          <select id="source_filter">
+            <option value="">all sources</option>
+          </select>
+
+          <select id="location_filter">
+            <option value="">all locations</option>
+          </select>
+        </div>
+      </section>
+
       <section id="phosphenes">
         <h2>phosphenes</h2>
       </section>
     </div>
   </main>
+  <footer>
+    <div class="container">
+      <p>caleb stark - phosphene tracker - 2026</p>
+    </div>
+  </footer>
 </body>
 
 </html>
