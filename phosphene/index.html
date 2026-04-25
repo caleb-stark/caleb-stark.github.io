@@ -1,25 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Phosphene Tracker</title>
+  <title>phosphene tracker</title>
   <link rel="stylesheet" href="css/style.css" />
   <script src="js/script.js" defer></script>
 </head>
-
 <body>
   <header>
     <div class="container">
-      <h1><a href="index.html">phosphene tracker</a></h1>
+      <h1><a href="./">phosphene tracker</a></h1>
     </div>
   </header>
 
   <main>
     <div class="container">
       <section>
-        <h2>Progress</h2>
+        <h2>progress</h2>
         <div class="progress_bar">
           <div id="progress_fill"></div>
         </div>
@@ -27,10 +25,10 @@
       </section>
 
       <section>
-        <h2>phosphene weapons</h2>
+        <h2>filters</h2>
 
         <div class="filters">
-          <input type="text" id="search" placeholder="search by weapon name">
+          <input type="text" id="search" placeholder="search by weapon name" />
 
           <select id="source_filter">
             <option value="">all sources</option>
@@ -42,16 +40,17 @@
         </div>
       </section>
 
-      <section id="phosphenes">
+      <section>
         <h2>phosphenes</h2>
+        <div id="phosphenes" class="grid"></div>
       </section>
     </div>
   </main>
+
   <footer>
     <div class="container">
       <p>caleb stark - phosphene tracker - 2026</p>
     </div>
   </footer>
 </body>
-
 </html>
